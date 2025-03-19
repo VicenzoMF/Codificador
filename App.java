@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         Codificador cod = new CodificadorSimples();
-
+//JGJJGJHGHG
         System.out.println("Codificador: "+cod.getNome());
         System.out.println("Versao: "+cod.getDataCriacao());
         System.out.println("Nivel de segurança: "+cod.getNivelSeguranca());
